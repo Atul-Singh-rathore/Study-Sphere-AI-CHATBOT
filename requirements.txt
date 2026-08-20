@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
+langchain - groq api
+langchain-google-genai
